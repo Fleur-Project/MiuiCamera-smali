@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cl1">300.0dip</dimen>
+    <dimen name="cl2">300.0dip</dimen>
+    <dimen name="cnb">80.0dip</dimen>
+    <dimen name="cnc">94.0dip</dimen>
+    <dimen name="cng">8.0sp</dimen>
+    <dimen name="cnj">8.0sp</dimen>
+    <dimen name="cvn">4.5dip</dimen>
+</resources>

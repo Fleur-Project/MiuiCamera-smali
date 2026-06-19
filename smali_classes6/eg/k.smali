@@ -1,0 +1,20 @@
+.class public interface abstract Leg/k;
+.super Ljava/lang/Object;
+.source "SourceFile"
+
+# interfaces
+.implements Leg/p;
+.implements Leg/y;
+
+
+# virtual methods
+.method public abstract e()Ljava/util/List;
+    .annotation system Ldalvik/annotation/Signature;
+        value = {
+            "()",
+            "Ljava/util/List<",
+            "Leg/z;",
+            ">;"
+        }
+    .end annotation
+.end method

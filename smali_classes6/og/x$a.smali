@@ -1,0 +1,14 @@
+.class public final enum Log/x$a;
+.super Log/x;
+.source "SourceFile"
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingClass;
+    value = Log/x;
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x4009
+    name = null
+.end annotation

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="bpp">30.0dip</dimen>
+    <dimen name="bv0">12.0dip</dimen>
+    <dimen name="c2r">165.22dip</dimen>
+    <dimen name="c2s">380.0dip</dimen>
+</resources>
